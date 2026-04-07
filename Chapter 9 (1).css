@@ -17,13 +17,15 @@
             line-height: 1.8;
             margin: 0;
             padding: 0;
-            width: 2050px;
+            width: 100%;
+            max-width: 2050px;
             font-size: 24px;
         }
 
         .page-wrapper {
             display: flex;
-            width: 2050px;
+            width: 100%;
+            max-width: 2050px;
             align-items: stretch;
         }
 
